@@ -1,0 +1,491 @@
+#########
+N: 60
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+Nmax is : 0
+  0.431164 seconds (230.17 k allocations: 15.500 MiB, 99.74% compilation time)
+#########
+
+#########
+N: 61
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+Nmax is : 0
+  0.000129 seconds (493 allocations: 14.305 KiB)
+#########
+
+#########
+N: 62
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 2
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 3
+Nmax is : 2
+  0.106748 seconds (57.41 k allocations: 3.823 MiB, 99.32% compilation time)
+#########
+
+#########
+N: 63
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+(diffk,list_d,Delta):
+number of deletable sequence: 2
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 2
+(diffk,list_d,Delta):
+number of deletable sequence: 2
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 3
+(diffk,list_d,Delta):
+number of deletable sequence: 2
+number of Delta=1: 1
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 4
+(diffk,list_d,Delta):
+number of deletable sequence: 2
+number of Delta=1: 1
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 5
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 1
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 6
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 1
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 7
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 1
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 8
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 1
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 9
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 1
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 10
+(diffk,list_d,Delta):
+number of deletable sequence: 2
+number of Delta=1: 1
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 11
+(diffk,list_d,Delta):
+number of deletable sequence: 3
+number of Delta=1: 1
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 12
+(diffk,list_d,Delta):
+number of deletable sequence: 4
+number of Delta=1: 2
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 13
+(diffk,list_d,Delta):
+number of deletable sequence: 3
+number of Delta=1: 2
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 14
+(diffk,list_d,Delta):
+number of deletable sequence: 3
+number of Delta=1: 3
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 15
+(diffk,list_d,Delta):
+number of deletable sequence: 4
+number of Delta=1: 3
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 16
+(diffk,list_d,Delta):
+number of deletable sequence: 7
+number of Delta=1: 4
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 17
+(diffk,list_d,Delta):
+number of deletable sequence: 6
+number of Delta=1: 4
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 18
+(diffk,list_d,Delta):
+number of deletable sequence: 6
+number of Delta=1: 5
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 19
+(diffk,list_d,Delta):
+number of deletable sequence: 8
+number of Delta=1: 5
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 20
+(diffk,list_d,Delta):
+number of deletable sequence: 9
+number of Delta=1: 7
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 21
+(diffk,list_d,Delta):
+number of deletable sequence: 11
+number of Delta=1: 7
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 22
+(diffk,list_d,Delta):
+number of deletable sequence: 12
+number of Delta=1: 9
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 23
+(diffk,list_d,Delta):
+number of deletable sequence: 17
+number of Delta=1: 9
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 24
+(diffk,list_d,Delta):
+number of deletable sequence: 11
+number of Delta=1: 10
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 25
+(diffk,list_d,Delta):
+number of deletable sequence: 13
+number of Delta=1: 10
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 26
+(diffk,list_d,Delta):
+number of deletable sequence: 12
+number of Delta=1: 10
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 27
+(diffk,list_d,Delta):
+number of deletable sequence: 11
+number of Delta=1: 10
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 28
+(diffk,list_d,Delta):
+number of deletable sequence: 14
+number of Delta=1: 10
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 29
+(diffk,list_d,Delta):
+number of deletable sequence: 12
+number of Delta=1: 10
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 30
+(diffk,list_d,Delta):
+number of deletable sequence: 13
+number of Delta=1: 10
+number of Delta=-1: 0
+number of Delta>=2: 1
+number of Delta<=-2: 0
+
+- start, m: 31
+(diffk,list_d,Delta):
+number of deletable sequence: 17
+number of Delta=1: 10
+number of Delta=-1: 1
+number of Delta>=2: 1
+number of Delta<=-2: 0
+
+- start, m: 32
+(diffk,list_d,Delta):
+number of deletable sequence: 20
+number of Delta=1: 10
+number of Delta=-1: 1
+number of Delta>=2: 1
+number of Delta<=-2: 0
+
+- start, m: 33
+(diffk,list_d,Delta):
+number of deletable sequence: 18
+number of Delta=1: 10
+number of Delta=-1: 2
+number of Delta>=2: 1
+number of Delta<=-2: 0
+
+- start, m: 34
+(diffk,list_d,Delta):
+number of deletable sequence: 9
+number of Delta=1: 0
+number of Delta=-1: 2
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 35
+(diffk,list_d,Delta):
+number of deletable sequence: 7
+number of Delta=1: 0
+number of Delta=-1: 3
+number of Delta>=2: 1
+number of Delta<=-2: 0
+
+- start, m: 36
+(diffk,list_d,Delta):
+number of deletable sequence: 5
+number of Delta=1: 0
+number of Delta=-1: 2
+number of Delta>=2: 1
+number of Delta<=-2: 0
+
+- start, m: 37
+(diffk,list_d,Delta):
+number of deletable sequence: 2
+number of Delta=1: 0
+number of Delta=-1: 2
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 38
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 1
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 39
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 1
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 40
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 1
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 41
+Nmax is : 40
+  0.018695 seconds (93.43 k allocations: 2.912 MiB, 29.52% compilation time)
+#########
+
+#########
+N: 64
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 2
+Nmax is : 1
+  0.000143 seconds (1.07 k allocations: 29.891 KiB)
+#########
+
+#########
+N: 65
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+Nmax is : 0
+  0.000069 seconds (523 allocations: 14.867 KiB)
+#########
+
+#########
+N: 66
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 2
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 3
+Nmax is : 2
+  0.000193 seconds (1.67 k allocations: 45.695 KiB)
+#########
+
+#########
+N: 67
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 2
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 3
+Nmax is : 2
+  0.000219 seconds (1.69 k allocations: 46.039 KiB)
+#########
+
+#########
+N: 68
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+Nmax is : 0
+  0.000063 seconds (552 allocations: 15.414 KiB)
+#########
+
+#########
+N: 69
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+Nmax is : 0
+  0.000061 seconds (553 allocations: 15.445 KiB)
+#########
+
+#########
+N: 70
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 2
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 3
+Nmax is : 2
+  0.000195 seconds (1.76 k allocations: 47.539 KiB)
+#########
+

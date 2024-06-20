@@ -1,0 +1,51 @@
+#########
+N: 56
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 2
+Nmax is : 1
+  0.560170 seconds (286.47 k allocations: 19.293 MiB, 99.68% compilation time)
+#########
+
+#########
+N: 57
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+Nmax is : 0
+  0.000129 seconds (454 allocations: 13.586 KiB)
+#########
+
+#########
+N: 58
+Note: gcd(S_m,d_m)=gcd(S_{m-1},d_m)
+
+- start, m: 1
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 2
+(diffk,list_d,Delta):
+number of deletable sequence: 1
+number of Delta=1: 0
+number of Delta=-1: 0
+number of Delta>=2: 0
+number of Delta<=-2: 0
+
+- start, m: 3
+Nmax is : 2
+  0.000281 seconds (1.46 k allocations: 41.945 KiB)
+#########
+
